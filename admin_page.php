@@ -14,6 +14,7 @@ include ('includes/header.html');
 <center>
 		<img src="./images/bg.jpg" width="750px"  alt="">
 		<p>xin chào đến với trang web</p>
+		<p>phát triển mã nguồn mở</p>
 	</center>
 
 <?php
