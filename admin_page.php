@@ -13,6 +13,7 @@ include ('includes/header.html');
 ?>
 <center>
 		<img src="./images/bg.jpg" width="750px"  alt="">
+		<p>xin chào</p>
 	</center>
 
 <?php
